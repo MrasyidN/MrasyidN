@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrasyidN
 - 👀 I’m interested in UI/UX
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning PHP and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
