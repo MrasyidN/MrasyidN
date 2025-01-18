@@ -12,8 +12,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m_rasyid04/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasy/) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zepyrush&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zepyrush&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=yaudahbanh&theme=onedark&no-frame=true&column=9" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=yaudahbanh&theme=tokyonight&show_icons=false&border_radius=10&hide_border=true" height=180 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaudahbanh&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height=180/>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
