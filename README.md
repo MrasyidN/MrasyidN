@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, Muhammad Rasyid Nurrohim</h1>
-<h3 align="center" style="text-align: left;">Halo!(•_•) Sebagai seorang programmer pemula, saya selalu mencari kesempatan untuk memperdalam pengetahuan saya dalam pemrograman. Keinginan saya untuk terus belajar mendorong saya menuju cita-cita menjadi software engineer yang handal(⌐■_■).</h3>
+<h3 align="center" style="text-align: left;">Halo!(•_•) Sebagai seorang programmer pemula, saya selalu mencari kesempatan untuk memperdalam pengetahuan saya dalam pemrograman. Keinginan saya untuk terus belajar mendorong saya menuju cita-cita menjadi AI/ML engineer yang handal(⌐■_■).</h3>
 
 <br>
 
