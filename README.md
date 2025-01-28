@@ -1,6 +1,6 @@
 
 <h1 align="center">Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"></h1>
-<h3 align="center" style="text-align: left;">Halo!(•_•) Sebagai seorang programmer pemula, saya selalu mencari kesempatan untuk memperdalam pengetahuan saya dalam pemrograman. Keinginan saya untuk terus belajar mendorong saya menuju cita-cita menjadi AI/ML engineer yang handal(⌐■_■).</h3>
+<h3 align="center" style="text-align: left;">Hello! 😊 I’m a beginner programmer eager to learn and aspire to become a skilled data engineer. 🚀.</h3>
 
 <br>
 
