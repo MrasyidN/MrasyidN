@@ -11,7 +11,8 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/m_rasyid04/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasy/) 
 
-
+![](https://www.codewars.com/users/MrasyidN/badges/large)
+[![wakatime](https://wakatime.com/badge/user/b81b9990-6c13-45a4-9fb4-22be1ccb2b0a.svg)](https://wakatime.com/@b81b9990-6c13-45a4-9fb4-22be1ccb2b0a)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
